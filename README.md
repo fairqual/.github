@@ -4,7 +4,7 @@ This is our GitHub Organisation where we will share our code and data. It is wor
 
 ***
 
-You can find our website here: [fairqual.org](https://fairqual.org/)
+You can find our website here: [fairqual.github.io/website/](https://fairqual.github.io/website/)
 
 ***
 This project was supported by the [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/).

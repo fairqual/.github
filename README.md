@@ -1,10 +1,3 @@
-## Welcome to the FAIRQual project 👋
+# fairqual/.github
 
-This is our GitHub Organisation where we will share our code and data. It is work in progress and we are currently setting up the infrastructure.
-
-***
-
-You can find our website here: [fairqual.github.io/website/](https://fairqual.github.io/website/)
-
-***
-This project was supported by the [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/).
+This repository holds the organisation profile for FAIRqual. The text shown on https://github.com/fairqual lives in [profile/README.md](profile/README.md).

@@ -10,6 +10,7 @@ The funded project ran from autumn 2024 to autumn 2026 and is completed. The tea
 
 - [website](https://github.com/fairqual/website): source of the project website at https://fairqual.github.io/website/ with blog, events, slides, and the proposal.
 - [dataitd24](https://github.com/fairqual/dataitd24): R data package with the ITD24 workshop data, documented at https://fairqual.github.io/dataitd24/ and archived on Zenodo.
+- [tdgovernance](https://github.com/fairqual/tdgovernance): template for a Data Governance Concept in transdisciplinary research as DOCX and Markdown, with a figure of its three phases, archived on Zenodo.
 
 ## Team
 
